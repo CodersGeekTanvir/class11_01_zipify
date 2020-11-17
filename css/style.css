@@ -44,8 +44,17 @@ body{
     padding: 20px 0;
     color: #fff;
 }
+.banner_left{
+
+}
+.banner_left img{
+
+}
 .banner_right {
     padding-left: 88px;
+}
+.banner_right img{
+
 }
 .banner_section ul{
 
@@ -81,10 +90,14 @@ body{
     color: #3BB44A;
     font-weight: 700;
     padding-bottom: 20px;
+    font-size: 35px;
 }
 .e-commerce p{
    color: #75757e;
    line-height: 1.7;
+}
+.common_button{
+    
 }
 .common_button a{
     background-color: #3BB44A;
